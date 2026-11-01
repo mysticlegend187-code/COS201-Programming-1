@@ -3,7 +3,7 @@
 ## Student Information
 
 - **Name:** Sobowale Adeoluwa Oluwaferanmi
-- **Matriculation Number:** To be provided
+- **Matriculation Number:** 25/17968
 - **Department:** Computer Science
 - **Level:** 200 Level
 - **Course:** COS 201
